@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I've been working through some books and training, but made projects private to make some changes to profile.
+I've been working through some books and training, mainly working in private repos. My day-to-day work is _not_ in GitHub so this profile only reflects personal work.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/68e6b91e1d72874d104482ee?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6aa022db66115c1e9725527f?variant=light)](https://roadmap.sh)
 
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
